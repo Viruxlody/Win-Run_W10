@@ -1,0 +1,4 @@
+1. Before deleting, backup first the Windows registry. (Export regedit)
+2. Now you can proceed to regedit (Registry Editor) path: 
+    HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+3. You can now delete desired history command.
